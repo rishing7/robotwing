@@ -15,6 +15,7 @@ ReactDOM.render(
 					<Card id={robots[5].id} name={robots[5].name} email = {robots[5].email}/>
 					<Card id={robots[6].id} name={robots[6].name} email = {robots[6].email}/>
 					<Card id={robots[7].id} name={robots[7].name} email = {robots[7].email}/>
+					<Card id={robots[8].id} name={robots[8].name} email = {robots[8].email}/>
 				</div>
 					,document.getElementById('root'));
 registerServiceWorker();
